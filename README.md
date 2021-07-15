@@ -75,10 +75,10 @@ Python Games
 This is a CodeBase with multiple python mini projects.
 
 ![Turtle Crossing](images/turtle_crossing.png?raw=true "Turtle Crossing")
-![Alt text](images/img.png?raw=true "Title")
-![Alt text](images/img.png?raw=true "Title")
-![Alt text](images/img.png?raw=true "Title")
-![Alt text](images/img.png?raw=true "Title")
+![Pong](images/pong.png?raw=true "pong")
+![Snake](images/snake.png?raw=true "snake")
+![Calculator](images/calculator.png?raw=true "Calculator")
+![Coffee Machine](images/coffee.png?raw=true "Coffee Machine")
 
 
 
@@ -111,7 +111,7 @@ follow this link to install python.
    ```sh
    git clone https://github.com/Rekid46/Python-Games.git
    ```
-2. Install NPM packages
+2. Install Python packages
    ```sh
    pip3 install flask
    ```
