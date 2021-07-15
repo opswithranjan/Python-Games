@@ -154,7 +154,8 @@ Distributed under the Apache License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Ranjan Singh - [@twitter_handle](https://twitter.com/lifeofranjan) - email (Singhranjan9024@gmail.com)
+Ranjan Singh : [@twitter_handle](https://twitter.com/lifeofranjan) 
+Email : Singhranjan9024@gmail.com
 
 Project Link: [https://github.com/Rekid46/Python-Games](https://github.com/Rekid46/Python-Games)
 
