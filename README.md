@@ -10,7 +10,7 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
+[![Apache License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
@@ -19,13 +19,13 @@
 <br />
 <p align="center">
   <a href="https://github.com/Rekid46/Python-Games">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/arcade-logo.svg" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">project_title</h3>
+  <h3 align="center">Python Games</h3>
 
   <p align="center">
-    project_description
+    This is a CodeBase with multiple python mini projects.
     <br />
     <a href="https://github.com/Rekid46/Python-Games"><strong>Explore the docs »</strong></a>
     <br />
@@ -70,9 +70,16 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+Python Games
 
 This is a CodeBase with multiple python mini projects.
+
+![Turtle Crossing](images/turtle_crossing.png?raw=true "Turtle Crossing")
+![Alt text](images/img.png?raw=true "Title")
+![Alt text](images/img.png?raw=true "Title")
+![Alt text](images/img.png?raw=true "Title")
+![Alt text](images/img.png?raw=true "Title")
+
 
 
 ### Built With
@@ -151,14 +158,6 @@ Ranjan Singh - [@twitter_handle](https://twitter.com/lifeofranjan) - email (Sing
 
 Project Link: [https://github.com/Rekid46/Python-Games](https://github.com/Rekid46/Python-Games)
 
-
-
-<!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
-
-* []()
-* []()
-* []()
 
 
 
