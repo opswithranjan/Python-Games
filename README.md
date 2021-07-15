@@ -155,6 +155,7 @@ Distributed under the Apache License. See `LICENSE` for more information.
 ## Contact
 
 Ranjan Singh : [@twitter_handle](https://twitter.com/lifeofranjan) 
+
 Email : Singhranjan9024@gmail.com
 
 Project Link: [https://github.com/Rekid46/Python-Games](https://github.com/Rekid46/Python-Games)
@@ -177,4 +178,4 @@ Project Link: [https://github.com/Rekid46/Python-Games](https://github.com/Rekid
 [license-shield]: https://img.shields.io/github/license/Rekid46/Python-Games.svg?style=for-the-badge
 [license-url]: https://github.com/Rekid46/Python-Games/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/Rekid46
+[linkedin-url]: https://www.linkedin.com/in/ranjan-singh-335845206/
