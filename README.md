@@ -158,7 +158,7 @@ Ranjan Singh : [@twitter_handle](https://twitter.com/lifeofranjan)
 
 Email : Singhranjan9024@gmail.com
 
-Project Link: [https://github.com/Rekid46/Python-Games](https://github.com/Rekid46/Python-Games)
+Project Link: [https://rekid46.github.io/Python-Games/](https://rekid46.github.io/Python-Games/)
 
 
 
